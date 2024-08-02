@@ -1,8 +1,8 @@
-### Hi 👋
+### Hi 
 
-I am a senior majoring in data science at St. Lawrence University in Canton, NY! 
+I am a recent graduate of St. Lawrence University in Canton, NY.
 
-I am interested in sports analytics!
+I am interested in sports analytics! Please click the repositories below to look at my projects. 
 
 <!--
 **hope-donoghue/hope-donoghue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
