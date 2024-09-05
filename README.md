@@ -1,6 +1,6 @@
 ### Hi 
 
-I am a recent graduate of St. Lawrence University in Canton, NY.
+I am a recent graduate of St. Lawrence University in Canton, NY with a degree in Data Science.
 
 I am interested in sports analytics! Please click the repositories below to look at my projects. 
 
